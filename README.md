@@ -1,8 +1,8 @@
 ## Projeto de Calculadora em C#
-Durante uma empolgante aula de programação em C#, os estudantes tiveram a oportunidade de mergulhar no mundo fascinante da programação orientada a objetos, sintaxe de C# e lógica de programação. A melhor parte? Tudo isso foi aprendido enquanto construíamos um projeto prático: uma calculadora funcional.
+Durante uma aula de programação em C#, os estudantes tiveram a oportunidade de mergulhar no mundo fascinante da programação orientada a objetos, sintaxe de C# e lógica de programação. A melhor parte? Tudo isso foi aprendido enquanto construíamos um projeto prático: uma calculadora funcional.
 
 ## Introdução ao Universo da Programação
-A aula começou com uma introdução à linguagem de programação C#. Os estudantes foram guiados através dos conceitos fundamentais, desde variáveis e operadores até estruturas de controle de fluxo. Entenderam como os algoritmos poderiam ser transformados em código, preparando o terreno para desafios mais complexos.
+A aula começou com uma introdução à linguagem de programação C#. Os estudantes foram guiados através dos conceitos fundamentais, variáveis e operadores. Entenderam como os algoritmos poderiam ser transformados em código, preparando o terreno para desafios mais complexos.
 
 ## Sintaxe Clara e Concisa
 O foco foi na sintaxe limpa e concisa de C#, que facilita a compreensão e a escrita de código. Os alunos aprenderam a importância de uma boa organização do código-fonte, tornando-o legível e fácil de dar manutenção. Cada linha de código foi dissecada para entender seu propósito, ajudando os alunos a internalizarem os conceitos cruciais da linguagem.
